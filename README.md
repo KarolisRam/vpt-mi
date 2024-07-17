@@ -1,5 +1,5 @@
 # Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent
-### [website](https://sites.google.com/view/vpt-mi/)| [arXiv](TODO) | [twitter/X](TODO) | [LessWrong](TODO)
+### [website](https://sites.google.com/view/vpt-mi/)| [arXiv](TODO) | [twitter/X](TODO) | [LessWrong](https://www.lesswrong.com/posts/DrKMpQ8cTyvTdSGzk/interpretability-in-action-exploratory-analysis-of-vpt-a)
 
 This repository contains some initial code for [Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent](TODO), which appeared at the [Mechanistic Interpretability Workshop at ICML 2024](https://icml2024mi.pages.dev/). 
 The main codebase is in the "research code" state at the moment, and we will do our best to share it if there is enough interest.  
