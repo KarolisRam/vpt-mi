@@ -7,5 +7,17 @@ The main codebase is in the "research code" state at the moment, and we will do 
 Meanwhile, feel free to play around with these:  
 [Attention outputs dashboard Colab](https://colab.research.google.com/drive/1YOwrDGu4lqolrchDFE_BddLrqZ7yaGQX?usp=sharing)  
 [Attention weights notebook](attention-weights.ipynb)  
-The data for the weights notebook can be found [here](https://drive.google.com/file/d/1Yw9dU8r_UNOMdksYchndoiPXBvuPnqzm/view?usp=sharing)  
+The data for the Attention weights notebook can be found [here](https://drive.google.com/file/d/1Yw9dU8r_UNOMdksYchndoiPXBvuPnqzm/view?usp=sharing).
 
+## Citation
+
+Please cite the paper using the below BibTeX:
+
+```
+@article{jucys2024vptmi,
+  title={Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent},
+  author={Jucys, Karolis and Adamopoulos, George and Hamidi, Mehrab and Milani, Stephanie and Samsami, Mohammad Reza and Zholus, Artem and Joseph, Sonia and Richards, Blake and Rish, Irina and {\c{S}}im{\c{s}}ek, {\"O}zg{\"u}r},
+  journal={arXiv preprint arXiv:TODO},
+  year={2024}
+}
+```
