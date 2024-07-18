@@ -6,7 +6,7 @@ The main codebase is in the "research code" state at the moment, and we will do 
 
 Meanwhile, feel free to play around with these:  
 [Attention outputs dashboard Colab](https://colab.research.google.com/drive/1YOwrDGu4lqolrchDFE_BddLrqZ7yaGQX?usp=sharing)  
-[Attention weights notebook](attention-weights.ipynb)  
+[Attention weights interactive notebook](attention-weights.ipynb)  
 The data for the Attention weights notebook can be found [here](https://drive.google.com/file/d/1Yw9dU8r_UNOMdksYchndoiPXBvuPnqzm/view?usp=sharing).
 
 ## Citation
