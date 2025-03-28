@@ -13,7 +13,7 @@ The data for the Attention weights notebook can be found [here](https://drive.go
 
 Please cite the paper using the below BibTeX:
 
-```
+```bibtex
 @article{jucys2024vptmi,
   title={Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent},
   author={Jucys, Karolis and Adamopoulos, George and Hamidi, Mehrab and Milani, Stephanie and Samsami, Mohammad Reza and Zholus, Artem and Joseph, Sonia and Richards, Blake and Rish, Irina and {\c{S}}im{\c{s}}ek, {\"O}zg{\"u}r},
